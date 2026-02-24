@@ -8,7 +8,7 @@ A production-grade data standardization pipeline that automatically detects, rep
 ## Author
 
 **Amulya Naga Raj**  
-M.S. Computer Science — Syracuse University  
+M.S. Computer Science, Syracuse University  
 Specialization: AI Systems, Trust & Safety, Fraud Prevention  
 
 Built as a production-grade portfolio project targeting Trust & Safety and Anti-Abuse roles at FAANG companies.

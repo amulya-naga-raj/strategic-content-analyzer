@@ -4,7 +4,7 @@ A production-grade data standardization pipeline that automatically detects, rep
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Amulya Naga Raj**  
 M.S. Computer Science — Syracuse University  

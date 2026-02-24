@@ -17,9 +17,9 @@ Built as a production-grade portfolio project targeting Trust & Safety and Anti-
 
 ---
 
-![Demo](https://img.shields.io/badge/demo-live-brightgreen)
-![Status](https://img.shields.io/badge/status-online-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://strategic-content-analyzer.streamlit.app)
+[![Status](https://img.shields.io/badge/status-online-brightgreen)](https://strategic-content-analyzer.streamlit.app)
+[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 **Tech Stack:**
 Python • Pandas • NumPy • Streamlit • Scikit-learn • XGBoost • Plotly • Matplotlib • Seaborn • Chardet

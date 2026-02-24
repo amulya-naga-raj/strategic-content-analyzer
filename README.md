@@ -17,6 +17,17 @@ Built as a production-grade portfolio project targeting Trust & Safety and Anti-
 
 ---
 
+![Demo](https://img.shields.io/badge/demo-live-brightgreen)
+![Status](https://img.shields.io/badge/status-online-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+**Tech Stack:**
+Python • Pandas • NumPy • Streamlit • Scikit-learn • XGBoost • Plotly • Matplotlib • Seaborn • Chardet
+
+**🔗 Live Demo:** [strategic-content-analyzer.streamlit.app](https://strategic-content-analyzer.streamlit.app)
+
+---
+
 ## Problem Solved
 
 Every social media platform exports analytics data differently:

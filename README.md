@@ -1,11 +1,11 @@
 # Strategic Content Analyzer 
-# Strategic Content Analyzer
+
 
 A production-grade data standardization pipeline that automatically detects, repairs, and normalizes social media CSV exports from YouTube, LinkedIn, Instagram, and TikTok into a unified ML-ready schema.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Amulya Naga Raj**  
 M.S. Computer Science — Syracuse University  

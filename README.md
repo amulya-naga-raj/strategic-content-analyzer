@@ -1,7 +1,20 @@
 # Strategic Content Analyzer 
-# Strategic Content Analyzer
 
 A production-grade data standardization pipeline that automatically detects, repairs, and normalizes social media CSV exports from YouTube, LinkedIn, Instagram, and TikTok into a unified ML-ready schema.
+
+---
+
+## 👩‍💻 Author
+
+**Amulya Naga Raj**  
+M.S. Computer Science — Syracuse University  
+Specialization: AI Systems, Trust & Safety, Fraud Prevention  
+
+Built as a production-grade portfolio project targeting Trust & Safety and Anti-Abuse roles at FAANG companies.
+
+[LinkedIn](https://www.linkedin.com/in/amulya-naga-raj) • [GitHub](https://github.com/amulya-naga-raj)
+
+---
 
 ## Problem Solved
 
@@ -68,3 +81,15 @@ All platforms mapped to:
 - LinkedIn (Analytics exports)
 - Instagram (Business insights)
 - TikTok (Creator analytics)
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---

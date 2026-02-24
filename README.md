@@ -96,7 +96,7 @@ All platforms mapped to:
 
 ---
 
-## 🖥️ Run Locally
+## Run Locally
 
 **1. Clone the repository**
 ```bash
